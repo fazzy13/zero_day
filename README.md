@@ -14,7 +14,7 @@ The first module, "0-Day", will introduce you to the basics of programming and s
 ## Resources
 To help you succeed in this program, we have provided several resources:
 
-Learning Portal: The Learning Portal is your go-to resource for all course materials. It contains lectures, readings, and assignments. You can access the Learning Portal through your ALX account.
+`Learning Portal`: The Learning Portal is your go-to resource for all course materials. It contains lectures, readings, and assignments. You can access the Learning Portal through your ALX account.
 
 `Mentors`: You will be assigned a mentor who will guide you throughout the program. Your mentor will be available to answer questions, provide feedback on your work, and offer support and encouragement.
 
